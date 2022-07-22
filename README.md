@@ -28,3 +28,4 @@ Apache, NGINX lub PHP (testowane na PHP 8.1.6)
 ```
 1. próbujemy odebrać paczka testowym kodem i numerem (kod: 333333 numer: 531531531)
 2. jeżeli dobrze zrobiliśmy powinno nam wyskoczyć otwarto skrytke (tak naprawde nie :P)
+```
