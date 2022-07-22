@@ -6,10 +6,12 @@ Zanim powiesz że to jest jakiś shit to wiedz że to mój pierwszy z takich pro
 funkcja wysyłania maili
 używa baze danych
 strona ma odrazu w miare dobry CSS
-
+```
 # wymagania
+```
 MySQL lub MariaDB
 Apache, NGINX lub PHP (testowane na PHP 8.1.6) 
+```
 
 # Jak Postawić taki serwer
 ```
